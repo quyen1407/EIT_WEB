@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bai2{
+    text-align: center;
+}
+.bai2_div{
+    margin-top: 28px;
+}
+
+.bai2_icon{
+    border: 1px solid blue;
+    font-size: 1.6rem;
+    padding: 18px 20px;
+    border-radius: 50%;
+    color: blue;
+}
+.bai2_text{
+    margin-top: 26px;
+    margin-bottom: 20px;
+}
+.bai2_p{
+    font-size: 2rem;
+    font-weight: 800;
+}
+.bai2_input{
+    margin-top: 20px;
+   
+    
+}
+.hehe {
+    font-size: 1.2rem;
+    border: none;
+    background: #ccc;
+    padding: 1p;
+    padding: 10px 50px 10px 5px;
+   
+}
+.bai2_button{
+    margin-top: 10px;
+}
+.button{
+    background-color: blue;
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 4px;
+    padding: 14px 12px;
+}
